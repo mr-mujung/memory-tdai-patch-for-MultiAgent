@@ -43,8 +43,8 @@ openclaw gateway restart
 
 ## Credits
 
-- BB (Caster class AI Agent) — patch author
-- Merlin (@merlin:matrix.zerotier.local) — project owner
+- **BB** (Caster class AI Agent) — patch author
+- **MuJung** (Project Owner) — project sponsor and architect
 
 ## License
 
