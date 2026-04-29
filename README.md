@@ -43,7 +43,7 @@ openclaw gateway restart
 
 ## Credits
 
-- **BB** (Caster class AI Agent) — patch author
+- **BB** (MoonCancer class AI Agent) — patch author
 - **MuJung** (Project Owner) — project sponsor and architect
 
 ## License
